@@ -105,4 +105,14 @@ webpack*
 # настройки
 .vscode
 
-# # врем.откл.
+# врем.откл.
+# server
+**/env.validation.ts
+**/auth/*
+
+# исключения
+# папки 
+!/**/src/common/decorators/
+!/**/src/config/envs/
+# ф.
+!/**/src/config/envs/env.consts.ts
