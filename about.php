@@ -2,7 +2,7 @@
 $title = "О Нас";
 require("blocks/header.php");
 ?>
-<div class="container mt-2">
+<div class="container mt-2" style="width: 1200px; margin: 0 auto;">
   <h1>О Нас</h1>
 
   <form action="check_post.php" method="post">
