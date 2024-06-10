@@ -25,6 +25,7 @@
     </div>
     <nav style="font-size: 20px; font-weight: bold;">
       <a href="index.php" title="1">Главная</a> |
-      <a href="about.php" title="2">Про Нас</a>
+      <a href="about.php" title="2">Про Нас</a> |
+      <a href="lessons.php" title="3">Уроки</a>
     </nav>
   </header>
